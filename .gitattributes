@@ -1,1 +1,2 @@
 WindowsSensor.MaverickGyr.exe filter=lfs diff=lfs merge=lfs -text
+FalconSensorMacOS.MaverickGyr.pkg filter=lfs diff=lfs merge=lfs -text
